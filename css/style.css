@@ -1,0 +1,48 @@
+#top{
+    background: url("../images/download.jpg");
+    height: 450px;
+}
+#top h1{
+    margin-top: 140px;
+}
+#uniname img{
+    width: 50px;
+    height: 50px;
+}
+.side{
+    float: right;
+    margin-top: -45px;
+    text-decoration: none;
+    background-color: white;
+}
+
+#about_me #detail span{
+    width: 69%;
+    float: right;
+}
+.panel-footer{
+    background-color: black;
+    color: white;
+}
+
+.dropdown{
+	background-color:black;	
+}
+
+#uniname{
+	color:white;	
+}
+
+.Text{
+	font-size:25px
+}
+.panel-footer span{
+    color: wheat;
+}
+.mar{
+    margin-top: 15px;
+}
+
+.text-center1{
+	color:white;
+}
